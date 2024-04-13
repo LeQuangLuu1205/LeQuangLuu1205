@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lê Quang Lưu
 ### 🎓 I'm currently studying at Da Nang University of Science and Techonology
 ### 🌱 I’m currently learning Java backend
 <!--
