@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lê Quang Lưu
-### 🎓 I'm currently studying at Da Nang University of Technology and Education
-### 🌱 I’m currently learning Java backend
+- 🎓 I'm currently studying at Da Nang University of Technology and Education
+- 🌱 I’m currently learning Java backend
 <!--
 **LeQuangLuu1205/LeQuangLuu1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
